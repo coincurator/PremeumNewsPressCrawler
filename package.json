@@ -1,0 +1,22 @@
+{
+  "name": "premeumnewspresscrawler",
+  "version": "1.0.0",
+  "description": "You can crawl Korean News Press lists",
+  "main": "index.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coincurator/PremeumNewsPressCrawler.git"
+  },
+  "keywords": [
+    "Crawler"
+  ],
+  "author": "coincurator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coincurator/PremeumNewsPressCrawler/issues"
+  },
+  "homepage": "https://github.com/coincurator/PremeumNewsPressCrawler#readme"
+}
